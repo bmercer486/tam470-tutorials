@@ -1,6 +1,6 @@
 # TAM 470 Python Tutorials
 
-Below are Jupyter notebook tutorials for the Brian Mercer's TAM 470 course at the University of Illinois at Urbana-Champaign.
+Below are Jupyter notebook tutorials for Brian Mercer's TAM 470 course at the University of Illinois at Urbana-Champaign.
 
 The order of the tutorials listed below corresponds to the order they will be addressed in the course.
 
