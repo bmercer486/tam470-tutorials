@@ -18,7 +18,7 @@ Click the links below to open each tutorial notebook directly in **Google Colab*
 ## Numerical Methods Basics
 - [Interpolation](https://colab.research.google.com/github/bmercer486/tam470-tutorials/blob/main/python_interpolation.ipynb)
 - [Finite Differences](https://colab.research.google.com/github/bmercer486/tam470-tutorials/blob/main/fd_converge.ipynb)
-- [Python Numerical Integration Demo](https://colab.research.google.com/github/bmercer486/tam470-tutorials/blob/main/quadrature_tutorial.ipynb)  
+- [Numerical Integration](https://colab.research.google.com/github/bmercer486/tam470-tutorials/blob/main/quadrature_tutorial.ipynb)  
 
 ---
 
