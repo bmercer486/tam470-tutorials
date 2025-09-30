@@ -5,8 +5,7 @@ Click the links below to open each tutorial notebook directly in **Google Colab*
 ---
 
 ## Python Basics
-- [Basic Python Demo (v1)](https://colab.research.google.com/github/bmercer486/tam470-tutorials/blob/main/1-basic-python-demo.ipynb)  
-- [Basic Python Demo (v2)](https://colab.research.google.com/github/bmercer486/tam470-tutorials/blob/main/1_basic_python_demo.ipynb)  
+- [Basic Python Demo](https://colab.research.google.com/github/bmercer486/tam470-tutorials/blob/main/1-basic-python-demo.ipynb)  
 - [NumPy Demo](https://colab.research.google.com/github/bmercer486/tam470-tutorials/blob/main/2-numpy-demo.ipynb)  
 - [Matplotlib Demo](https://colab.research.google.com/github/bmercer486/tam470-tutorials/blob/main/3-matplotlib-demo.ipynb)  
 - [Python Interpolation](https://colab.research.google.com/github/bmercer486/tam470-tutorials/blob/main/python_interpolation.ipynb)  
