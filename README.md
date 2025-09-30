@@ -44,4 +44,4 @@ Click the links below to open each tutorial notebook directly in **Google Colab*
 ## Notes
 - Each notebook runs entirely in Google Colab.  
 - You do **not** need to clone or download the GitHub repo.  
-- Use these links to the the latest tutorial versions
+- Use these links to access the latest tutorial versions
