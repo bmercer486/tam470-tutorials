@@ -37,7 +37,11 @@ Click the links below to open each tutorial notebook directly in **Google Colab*
 - [1D Convection Example](https://colab.research.google.com/github/bmercer486/tam470-tutorials/blob/main/convec_1d_example.ipynb)  
 - [2D Transient Heat Equation (Explicit)](https://colab.research.google.com/github/bmercer486/tam470-tutorials/blob/main/heat_equation_2d_explicit.ipynb)  
 - [2D Steady Heat with the Point Jacobi Method](https://colab.research.google.com/github/bmercer486/tam470-tutorials/blob/main/point_jacobi_example.ipynb)
-- [1D FEM Example](https://colab.research.google.com/github/bmercer486/tam470-tutorials/blob/main/fem_1d.ipynb)  
+
+---
+
+## Finite Element Method
+- [1D FEM Example](https://colab.research.google.com/github/bmercer486/tam470-tutorials/blob/main/fem_1d.ipynb)
 
 ---
 
