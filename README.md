@@ -28,11 +28,11 @@ Click the links below to open each tutorial notebook directly in **Google Colab*
 - [Newton–Raphson Demo](https://colab.research.google.com/github/bmercer486/tam470-tutorials/blob/main/newton_raphson_demo.ipynb)
 - [Nonlinear Backward Euler Example](https://colab.research.google.com/github/bmercer486/tam470-tutorials/blob/main/pendulum_nonlin.ipynb)  
 - [RK4 and Multistep examples](https://colab.research.google.com/github/bmercer486/tam470-tutorials/blob/main/rk4_lf_ab2_bdf2.ipynb)  
+- [BVP Example](https://colab.research.google.com/github/bmercer486/tam470-tutorials/blob/main/bvp_example.ipynb)  
 
 ---
 
 ## Numerical Solution of PDEs
-- [BVP Example](https://colab.research.google.com/github/bmercer486/tam470-tutorials/blob/main/bvp_example.ipynb)  
 - [1D Transient Heat Equation Example](https://colab.research.google.com/github/bmercer486/tam470-tutorials/blob/main/heat_1d_example.ipynb)
 - [1D Convection Example](https://colab.research.google.com/github/bmercer486/tam470-tutorials/blob/main/convec_1d_example.ipynb)  
 - [2D Transient Heat Equation (Explicit)](https://colab.research.google.com/github/bmercer486/tam470-tutorials/blob/main/heat_equation_2d_explicit.ipynb)  
